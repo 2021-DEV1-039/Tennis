@@ -20,7 +20,6 @@ git clone https://github.com/2021-DEV1-039/Tennis
 Install maven to build the spring boot project. Refer https://maven.apache.org/install.html
 
 Install npm to build the react project. Refer https://www.npmjs.com/get-npm
-```
 
 ### Installing
 
