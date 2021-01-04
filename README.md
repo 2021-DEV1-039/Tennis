@@ -45,7 +45,7 @@ cd tennis-react-app
 Build the project using the npm command:
 npm install
 
-Build the project using the npm command:
+Run the project using the npm command:
 npm start
 
 Tha above step will open a browser window and run the react application on port 3000
